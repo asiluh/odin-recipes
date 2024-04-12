@@ -1,1 +1,2 @@
 # odin-recipes
+This project is to allow us to demonstrate understanding in the skills we've learned so far, which include git, creating files in the command line, HTML boilerpoint, and writing out HTML for links, images, paragraphs, lists, etc. in the structure of a fun little recipe website!
